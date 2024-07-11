@@ -1,0 +1,33 @@
+header {
+    padding: 1rem;
+    font-size: 24px;
+    width: 6rem
+    height: 2rem;
+    display: grid;
+    align-items: center;
+    text-align: center;
+    padding: 1rem 2rem;
+}
+
+header .github-btn {
+    background-color:rgb(88, 88, 88);
+    color: white;
+    border: 3px solid rgb(0, 0, 0);
+    padding: 1rem 1rem;
+    font-size: 20px;
+    border-radius: 1rem;s
+    width: 3rem;
+    align-items: end;
+    justify-items: end;
+
+}
+
+.header-title{
+    color: black;
+    justify-content: center;
+}
+
+header.large {
+    padding: 1rem 1rem;
+    font-size: 32px;
+}
